@@ -12,13 +12,13 @@
 
 2° Abra o console do navegador
 
-[foto]
+[1.png](https://github.com/brennorichard/InstaBot-V1.0/blob/main/assets/1.png)
 
 3° Cole o código
 
 4° Pressione "Enter" e veja o robô trabalhar
 
-[foto]
+[2.png](https://github.com/brennorichard/InstaBot-V1.0/blob/main/assets/2.png)
 
 
 
